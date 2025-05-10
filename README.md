@@ -39,8 +39,7 @@ This project is a Streamlit-based AI financial assistant that enables users to a
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/your-username/ai-financial-advisor.git
-    cd ai-financial-advisor
+    git clone https://github.com/shawarr/phiornsIEEE
     ```
 
 2. Install dependencies
