@@ -43,10 +43,8 @@ This project is a Streamlit-based AI financial assistant that enables users to a
     cd ai-financial-advisor
     ```
 
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Install dependencies
+
 
 3. Run the app:
     ```bash
@@ -59,6 +57,3 @@ This project is a Streamlit-based AI financial assistant that enables users to a
 - Make sure your Twilio account is WhatsApp-enabled and the number is registered.
 - Model inference is run locally via Hugging Face — ensure enough resources are available.
 
-## 📄 License
-
-This project is licensed under the MIT License.
